@@ -17,5 +17,13 @@ While this strategy has allowed them to save on operations cost, they are keen f
 
 ## Methodology
 
-Being a retail storefront, we believe it was important to include an interactive dashboard, wherein the store team can view how their various segments are doing over time. Specially observing the change in timings, it is crucial to know how individual products have done from 2017 to 2018.
+Being a retail storefront, we believe it was important to include an interactive dashboard, wherein the store team can view how their various segments are doing over time. Specially observing the change in timings, it is crucial to know how individual products have done from 2017 to 2018. 
+
+Retail stores mainly include commodity products, wherein different stores do not differ a lot in terms of the products or prices they offer. In this case, Marketing the right way becomes crucial. We believe that since the store sells so many home grown items, they should market themselves as "Farm-to-Table" concept store.
+
+>>According to data from the USDA, National Agricultural Statistics Service (NASS), sales of local edible farm products in 2017 totaled $11.8 billion, or 3 percent of all agricultural sales in 2017, up from $8.7 billion in 2015.
+
+Using the results from the Basket Analysis, the store can group commonly bought items together and offer discounts on products. A commonly bought second item? Carrots! They are grouped with many other vegetables.
+
+To understand the future needs of the store, we took into consideration how the Buying Price and Quantity influence the future Total Profit of the store using Machine Learning. This can help the store budget their Working Capital in a way that helps them stay steady, while the profits gradually increase.
 
