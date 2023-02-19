@@ -12,4 +12,10 @@ While this strategy has allowed them to save on operations cost, they are keen f
 
 [Presentation Link](https://docs.google.com/presentation/d/1nb3SO0GwrA2altb8U1LN08yKqxB0s_uy4rKRcNzoAgo/edit?usp=sharing)
 
-[Tableau Dashboard Link]()
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/pragya.verma6604/viz/OrcaCorps_RetailAnalysis/What-ifAnalysis?publish=yes)
+
+
+## Methodology
+
+Being a retail storefront, we believe it was important to include an interactive dashboard, wherein the store team can view how their various segments are doing over time. Specially observing the change in timings, it is crucial to know how individual products have done from 2017 to 2018.
+
