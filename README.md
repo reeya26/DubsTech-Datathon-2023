@@ -35,3 +35,8 @@ To improve the efficieny, I used a simpler model (no lag features) but with 1000
 |      |   Old Model   | Updated Model |
 | -----| ------------- | ------------- |
 | RMSE |    0.86018    |    0.30484    |
+
+
+<p align="left">
+  <img src="XGBoost_RMSE.png" width="850" title="XGBoost">
+</p>
