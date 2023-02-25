@@ -27,3 +27,11 @@ Using the results from the Basket Analysis, the store can group commonly bought 
 
 To understand the future needs of the store, we took into consideration how the Buying Price and Quantity influence the future Total Profit of the store using Machine Learning. This can help the store budget their Working Capital in a way that helps them stay steady, while the profits gradually increase.
 
+## Updated ML Model
+
+For the Datathon2023 submission, we had used an XGBoost model with lag features. Due to the time contraints, we had only trained it using 10 Trees (n_estimators) with a Learning Rate of 0.1.
+To improve the efficieny, I used a simpler model (no lag features) but with 1000 Trees and a Learning Rate of 0.01 to avoid overfitting. In this case, 1000 n_estimators can be used as the dataset is not very big. 
+
+|      |   Old Model   | Updated Model |
+| -----| ------------- | ------------- |
+| RMSE |    0.86018    |    0.30484    |
