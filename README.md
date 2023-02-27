@@ -27,6 +27,13 @@ Using the results from the **Basket Analysis**, implemented using the Apriori Al
 
 To understand the future needs of the store, we took into consideration how the Buying Price and Quantity influence the future Total Profit of the store using Machine Learning. This can help the store budget their Working Capital in a way that helps them stay steady, while the profits gradually increase.
 
+## Market-Basket Analysis
+
+Using Frequent Itemset Mining, we can analyze which groups of items are frequently bought together. This is implemented using the Apriori Algorithm in Python. Using Minimum Lift as 3 (In this case, lift>1 means the items are more likely to be bought together), we observe the following associations:
+
+
+
+
 ## Updated ML Model
 
 For the Datathon2023 submission, we had used an XGBoost model with lag features. Due to the time contraints, we had only trained it using 10 Trees (n_estimators) with a Learning Rate of 0.1.
