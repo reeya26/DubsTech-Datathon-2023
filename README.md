@@ -23,7 +23,7 @@ Retail stores mainly include commodity products, wherein different stores do not
 
 >>According to data from the USDA, National Agricultural Statistics Service (NASS), sales of local edible farm products in 2017 totaled $11.8 billion, or 3 percent of all agricultural sales in 2017, up from $8.7 billion in 2015.
 
-Using the results from the Basket Analysis, the store can group commonly bought items together and offer discounts on products. A commonly bought second item? Carrots! They are grouped with many other vegetables.
+Using the results from the **Basket Analysis**, implemented using the Apriori Algorithm, the store can group commonly bought items together and offer discounts on products. A commonly bought second item? Carrots! They are grouped with many other vegetables.
 
 To understand the future needs of the store, we took into consideration how the Buying Price and Quantity influence the future Total Profit of the store using Machine Learning. This can help the store budget their Working Capital in a way that helps them stay steady, while the profits gradually increase.
 
@@ -40,3 +40,25 @@ To improve the efficieny, I used a simpler model (no lag features) but with 1000
 <p align="left">
   <img src="XGBoost_RMSE.png" width="850" title="XGBoost">
 </p>
+
+
+## Updated Tableau Dashboard
+
+The Retail Store team can analyse the performance of each Item, to understand how to stock their inventory and price their products. 
+<p align="left">
+  <img src="https://github.com/reeya26/DubsTech-Datathon-2023/blob/main/Results/Tableau_Screen%201.png" width="850" title="Product Analysis">
+</p>
+
+Analyzing the performance of each Item and Sub-category can help them understand what caused the decrease in profits. 
+
+<p align="left">
+  <img src="https://github.com/reeya26/DubsTech-Datathon-2023/blob/main/Results/Tableau_Screen%202.png" width="850" title="Product Analysis">
+</p>
+
+The What-if analysis is useful to project future profits for the team
+<p align="left">
+  <img src="https://github.com/reeya26/DubsTech-Datathon-2023/blob/main/Results/Tableau_Screen%203.png" width="850" title="Product Analysis">
+</p>
+
+
+A detailed overview of all methods can be found in the Presentation linked above. 
