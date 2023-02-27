@@ -31,6 +31,9 @@ To understand the future needs of the store, we took into consideration how the 
 
 Using Frequent Itemset Mining, we can analyze which groups of items are frequently bought together. This is implemented using the Apriori Algorithm in Python. Using Minimum Lift as 3 (In this case, lift>1 means the items are more likely to be bought together), we observe the following associations:
 
+<p align="left">
+  <img src="https://github.com/reeya26/DubsTech-Datathon-2023/blob/main/Results/Apriori_results.png" width="850" title="Apriori">
+</p>
 
 
 
